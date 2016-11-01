@@ -1,0 +1,22 @@
+.todos li{
+  width: 50%;
+}
+
+.todo span{
+  padding: .5rem;
+  display: inline-block;
+  width: 90%;
+}
+
+.todo span.completed{
+  color: lightgray;
+  text-decoration: line-through;
+}
+
+.new-todo{
+  margin-top: .5rem;
+}
+
+.new-todo input {
+  width: 50%;
+}
